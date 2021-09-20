@@ -1,2 +1,3 @@
-# exercice-kubernetes-templates
-Il s'agit des templates pour l'exercice de kubernetes
+# Template pour les exercices kubernetes
+
+Utiliser ces templates permet d'aller plus, mais faire sans permet de mieux apprendre.
